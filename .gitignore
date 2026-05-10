@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.h5
+*.keras
+
+# Node
+frontend/node_modules/
+
+# Env
+.env
