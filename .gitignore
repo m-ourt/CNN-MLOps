@@ -2,11 +2,27 @@
 __pycache__/
 *.pyc
 .venv/
+venv/
+
+# Models
 *.h5
 *.keras
+*.pth
+
+# Dataset
+dataset/
+training/
+single_prediction/
 
 # Node
 frontend/node_modules/
 
-# Env
+# Environment variables
 .env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
